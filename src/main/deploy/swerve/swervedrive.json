@@ -1,0 +1,16 @@
+{
+    "maxSpeed": null,
+    "optimalVoltage": 12,
+    "imu": {
+      "type": "null",
+      "id": null,
+      "canbus": "null"
+    },
+    "invertedIMU": null,
+    "modules": [
+      "frontleft.json",
+      "frontright.json",
+      "backleft.json",
+      "backright.json"
+    ]
+  }

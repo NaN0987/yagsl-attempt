@@ -1,0 +1,17 @@
+{
+    "wheelDiameter": null,
+    "gearRatio": {
+      "drive": null,
+      "angle": null
+    },
+    "currentLimit": {
+      "drive": null,
+      "angle": null
+    },
+    "rampRate": {
+      "drive": null,
+      "angle": null
+    },
+    "wheelGripCoefficientOfFriction": null,
+    "angleMotorFreeSpeedRPM": null
+  }
